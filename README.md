@@ -1,6 +1,6 @@
 
 <h1 align="center">DarkMail v1.0<br></h1>
-<img src="darkmail_logo.png" alt="DarkMail Logo" class="center">
+<img src="darkemail.jpeg" alt="DarkMail Logo" class="center">
 * `📧 🔒`<br />
 * `An advanced and secure email automation tool for Python users`
 
